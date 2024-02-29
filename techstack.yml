@@ -2,7 +2,7 @@ repo_name: 2lambda123/pedalboard
 report_id: 0ed605e45c53ab81275da6570bf2bf79
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-09T07:56:46+00:00'
+timestamp: '2024-02-29T19:19:21+00:00'
 requested_by: psobot
 provider: github
 branch: master
@@ -126,7 +126,7 @@ tools:
   last_updated_by: Peter Sobot
   last_updated_on: 2021-07-06 13:59:11.000000000 Z
 - name: MkDocs
-  description: 'A static site generator '
+  description: A static site generator
   website_url: http://www.mkdocs.org/
   open_source: false
   hosted_saas: false
